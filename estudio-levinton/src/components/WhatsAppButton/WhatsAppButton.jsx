@@ -21,5 +21,6 @@ export default function WhatsAppButton() {
       </svg>
     </a>,
     document.body
+    
   )
 }
