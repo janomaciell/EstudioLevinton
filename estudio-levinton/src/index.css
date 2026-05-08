@@ -92,6 +92,7 @@ ul { list-style: none; }
   justify-content: flex-end;
   padding: 7vh var(--gutter);
   pointer-events: none;
+  
 }
 .page-loader__counter {
   font-family: var(--font-display);
