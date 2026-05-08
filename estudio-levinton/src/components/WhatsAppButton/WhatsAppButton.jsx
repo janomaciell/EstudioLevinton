@@ -14,6 +14,8 @@ export default function WhatsAppButton() {
         bottom: '30px',
         right: '30px',
         zIndex: 99999,
+        pointerEvents: 'auto',
+        
       }}
     >
       <svg
@@ -27,6 +29,6 @@ export default function WhatsAppButton() {
       </svg>
     </a>,
     document.body
-    
+
   )
 }
