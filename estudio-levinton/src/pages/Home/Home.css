@@ -599,6 +599,7 @@
   .s4-grid { grid-template-columns: 1fr; }
   .s4-grid__item { aspect-ratio: 16/9; }
   .s8-cta__line { font-size: clamp(3rem, 16vw, 6rem); }
+}
 
 /* ============================================================
    VIDEO LOADER
