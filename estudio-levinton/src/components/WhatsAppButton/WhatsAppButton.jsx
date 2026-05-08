@@ -9,6 +9,12 @@ export default function WhatsAppButton() {
       rel="noopener noreferrer"
       className="floating-wa"
       aria-label="Chat en WhatsApp"
+      style={{
+        position: 'fixed',
+        bottom: '30px',
+        right: '30px',
+        zIndex: 99999,
+      }}
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
